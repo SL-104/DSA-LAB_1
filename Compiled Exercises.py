@@ -1,7 +1,5 @@
 # ------------------------------------------- #
 #   Name: Sophia Queen Lim                    #
-#   Course, Year, and Section: BSCPE 2-3      #
-#   Professor: Engr. Godofredo Avena          #
 #   Subject: Data Structure and Algorithm     #
 #   Lab Activity 1: Python review             #
 #   Compiled Exercises 1, 2, and 3            #
